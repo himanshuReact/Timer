@@ -20,9 +20,7 @@ const Timer = () => {
   return (
     <div>
       <div>Lets do it</div>
-      Hello Custom Timer is started
-      <div>Finish</div>
-      {seconds}
+      Seconds : {seconds}
     </div>
   );
 };
